@@ -1,0 +1,14 @@
+{
+  "numberOfAgents": 20000,
+  "steps": 100,
+  "mc": 50,
+  "defaultTheta": 0.3,
+  "defaultTau": 0.4,
+  "aValue": 100,
+  "mu": 3.32147894239559,
+  "sigma": 0.23888601977491963,
+  "maxEffort": 50.0,
+  "executionType": "SIMPLE",
+  "printResult": "True",
+  "runPythonScripts": "True"
+}

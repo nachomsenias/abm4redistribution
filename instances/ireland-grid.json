@@ -1,0 +1,17 @@
+{
+  "numberOfAgents": 1000,
+  "steps": 100,
+  "mc": 30,
+  "defaultTheta": 0.1,
+  "defaultTau": 0.1,
+  "aValue": 10,
+  "mu": 3.398551662609838,
+  "sigma": 0.25697534284250034,
+  "initialTheta": 0.01,
+  "incTheta": 0.01,
+  "maxTheta": 1,
+  "initialTau": 0.01,
+  "incTau": 0.01,
+  "maxTau": 1,
+  "executionType": "GRID"
+}
